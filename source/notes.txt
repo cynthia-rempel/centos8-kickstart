@@ -1,0 +1,4 @@
+# logs to send to foreground
+/tmp/anaconda.log
+/tmp/storage.log
+/tmp/program.log
